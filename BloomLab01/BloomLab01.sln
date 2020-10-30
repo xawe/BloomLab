@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloomLab01", "BloomLab01.csproj", "{828722D6-FB10-49AF-ABC5-9B4256D9A712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BloomTests", "..\BloomTests\BloomTests.csproj", "{96FA96D4-6B14-4F5F-95D9-5217FCB4E002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828722D6-FB10-49AF-ABC5-9B4256D9A712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828722D6-FB10-49AF-ABC5-9B4256D9A712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828722D6-FB10-49AF-ABC5-9B4256D9A712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828722D6-FB10-49AF-ABC5-9B4256D9A712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FA96D4-6B14-4F5F-95D9-5217FCB4E002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FA96D4-6B14-4F5F-95D9-5217FCB4E002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FA96D4-6B14-4F5F-95D9-5217FCB4E002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FA96D4-6B14-4F5F-95D9-5217FCB4E002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B23B31A-E48F-4134-92A6-537CFB29ABE5}
+	EndGlobalSection
+EndGlobal
